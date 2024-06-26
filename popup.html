@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto Reload Page</title>
+  <style>
+    body {
+      width: 200px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+    button, label {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    label {
+      cursor: pointer;
+    }
+  </style>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h3>Auto Reload Page</h3>
+  <label>
+    <input type="checkbox" id="toggle-reload" />
+    Ativar recarregamento automático
+  </label>
+  <button id="reload-now">Recarregar Agora</button>
+  <script src="popup.js"></script>
+</body>
+</html>
