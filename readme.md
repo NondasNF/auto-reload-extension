@@ -1,16 +1,16 @@
 # Auto Reload Page Extension
 
-Esta é uma extensão do Google Chrome que permite recarregar automaticamente a página ativa a cada 5 minutos. Você pode ativar ou desativar essa funcionalidade para cada página individualmente através da interface popup.
+This is a Google Chrome extension that automatically reloads the active page every 5 minutes. You can enable or disable this functionality for each individual page through the popup interface.
 
-## Funcionalidades
+## Features
 
-- Recarregamento automático da página ativa a cada 5 minutos.
-- Ativar/desativar a funcionalidade para páginas específicas.
-- Recarregar manualmente a página atual com um clique.
+- Automatically reload the active page every 5 minutes.
+- Enable/disable the functionality for specific pages.
+- Manually reload the current page with one click.
 
-## Instalação
+## Installation
 
-1. Clone ou baixe este repositório.
+1. Clone or download this repository.
 
    ```bash
-   git clone https://github.com/seu-usuario/auto-reload-page-extension.git
+   git clone https://github.com/your-username/auto-reload-page-extension.git
